@@ -78,7 +78,7 @@ fEdit =(i)=> {
 
   this.refs.name.focus();
 }
-
+// wsfs
 render(){
   let datas =  this.state.datas;
   return (
